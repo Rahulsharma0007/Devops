@@ -2,4 +2,5 @@
 Hello how are you doing, Consistency is the key.
 =======
 Consistency is the key, keep yourself consistent.
+ok
 >>>>>>> dev
