@@ -2,4 +2,14 @@
 Hello how are you doing, Consistency is the key.
 =======
 Consistency is the key, keep yourself consistent.
+ok
+<<<<<<< HEAD
 >>>>>>> dev
+=======
+>>>>>>> dev
+<<<<<<< Updated upstream
+nice
+=======
+
+wo sb to bdiya h ab squash ka feature check kru
+>>>>>>> Stashed changes
