@@ -7,3 +7,9 @@ ok
 >>>>>>> dev
 =======
 >>>>>>> dev
+<<<<<<< Updated upstream
+nice
+=======
+
+wo sb to bdiya h ab squash ka feature check kru
+>>>>>>> Stashed changes
