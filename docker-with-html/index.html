@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Beautiful Web Page</title>
+
+<style>
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+font-family:Arial, Helvetica, sans-serif;
+}
+
+body{
+height:100vh;
+display:flex;
+align-items:center;
+justify-content:center;
+background: linear-gradient(135deg,#667eea,#764ba2);
+color:white;
+}
+
+.container{
+text-align:center;
+background: rgba(255,255,255,0.1);
+padding:50px;
+border-radius:15px;
+backdrop-filter: blur(10px);
+box-shadow:0 10px 30px rgba(0,0,0,0.2);
+max-width:500px;
+}
+
+h1{
+font-size:40px;
+margin-bottom:15px;
+}
+
+p{
+font-size:18px;
+margin-bottom:25px;
+opacity:0.9;
+}
+
+button{
+padding:12px 30px;
+font-size:16px;
+border:none;
+border-radius:30px;
+background:white;
+color:#764ba2;
+cursor:pointer;
+transition:0.3s;
+}
+
+button:hover{
+transform:scale(1.1);
+background:#f1f1f1;
+}
+
+footer{
+margin-top:25px;
+font-size:14px;
+opacity:0.7;
+}
+</style>
+
+</head>
+<body>
+
+<div class="container">
+<h1>Welcome 🌟</h1>
+<p>This is a beautiful modern HTML page created with pure HTML and CSS.</p>
+<button onclick="alert('Hello! Thanks for clicking.')">Click Me</button>
+
+<footer>
+<p>Made with ❤️ using HTML & CSS</p>
+</footer>
+</div>
+
+</body>
+</html>
